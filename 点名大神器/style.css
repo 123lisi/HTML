@@ -1,0 +1,48 @@
+﻿@charset "utf-8";
+
+body {
+	margin: 0;
+	padding: 0;
+	/*background:url(img/gec.png);*/
+	background-size: cover;
+}
+/*标题*/
+#divTitle {
+	position: relative;
+	width:100%;
+	text-align:center; /* 里面的文字对齐方式(文本居中) */
+	height:120px; /* 总高度 */
+	line-height:120px; /* 每行的高度 */
+}
+#title {
+	position: relative;
+	text-align:center; 
+	font-size:80px; /* 文字大小 */
+}
+/*按钮*/
+#divBtn {
+	position: relative;
+	width:100%;
+	text-align:center; /* 里面的文字对齐方式(文本居中) */
+	height:80px; /* 总高度 */
+	line-height:80px; /* 每行的高度 */
+}
+#button {
+	position: relative;
+	text-align:center; 
+	font-size:32px; /* 文字大小 */
+	background: #0FF;
+}
+/*姓名*/
+#divName {
+	position: relative;
+	width:100%;
+	text-align:center; /* 里面的文字对齐方式(文本居中) */
+}
+#name {
+	color: red;
+	position: relative;
+	text-align:center; 
+	font-size:96px; /* 文字大小 */
+}
+

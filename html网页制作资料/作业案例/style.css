@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+/*header部分*/
+header {
+}
+
+#header_left {
+	float:left;
+}
+
+#header_right {
+	float:right;
+	margin-top: 15px;
+	margin-right:60px;
+}
+
+/*menu部分*/
+#menu {
+	clear:both;
+	background: #1C3F09;
+	text-align:center;
+}
+#menu a {
+	color: #ffffff;
+	text-decoration:none;
+	margin:0 8px;
+}
+#menu a.yellow {
+	color: yellow;
+}
+/*search部分*/
+#search {
+	background: #B6B684;
+	text-align:right;
+	padding-right: 40px;
+}
+
+/*content部分*/
+#content {
+}
+#content #content_page {
+	text-align: right;
+	padding-right: 40px;
+}
+
+#content #product_list img {
+	width: 100%;
+}
+#booklist {
+}
+.book {
+	float:left;
+	padding:10px 100px;
+}
+.bookimg {
+	width: 130px;
+	height: 200px;
+}
+.bookIntroduce {
+	text-align:center;
+}
+.clear {
+	clear:both;
+}
+
+/*footer部分*/
+footer {
+	clear:both;
+	background: #EFEEDC;
+	height: 60px;/*footer高度与图片高度一致*/
+	padding: 10px 0px;
+}
+footer #footer_left {
+	float: left;
+	margin-left:50px;
+}
+
+footer #footer_right {
+	float: left;
+	line-height: 30px;
+	padding-left: 300px;
+}
+

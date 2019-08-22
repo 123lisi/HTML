@@ -1,0 +1,77 @@
+/*#p1{
+	font-size: 36px;
+	font-family: "黑体";
+	font-weight: 400;
+	font-style: normal;
+}
+#p2{
+	font-size: 36px;
+	font-family: "楷体";
+	font-weight: 400;
+	font-style: inherit;
+}
+#ul1{
+	/*list-style-image: url();*/
+	/*list-style-position: inside;*/
+	/*list-style-type: circle;*/
+	/*list-style-type: none;*/
+	/*text-align: center;*/
+/*}
+.a1{
+	text-decoration:none;
+	color: inherit;
+	text-align: right;
+}
+.divc1{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	display: inline-block;
+}
+#div3 {
+	background-color: gray;
+}
+#div4 {
+	background-color: cyan;
+}
+#div5 {
+	background-color: lightgreen;
+}
+.span1{
+	background: black;
+	display: block;
+}
+#div6{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	float: left;
+	position: relative;
+}
+#div7{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	float: left;
+}
+#div8{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	float: left;
+}
+.clear{
+	clear: both;
+}*/
+#div9{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	float: left;
+}
+#div10{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	float: right;
+}

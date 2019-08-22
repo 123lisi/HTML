@@ -1,0 +1,67 @@
+#header_left{
+	float: left;
+}
+#header_right{
+	float: right;
+	margin-top: 20px;
+	margin-right: 60px;
+}
+#menu{
+	clear: both;
+	background-color: #1C3F09;
+	text-align: center;
+}
+#menu a{
+	color: #ffffff;
+	text-decoration: none;
+}
+#menu a.yellow{
+	color: yellow;
+}
+#search{
+	background-color: #B6B684;
+	text-align: right;
+	padding-right: 30px;
+}
+/*conten部分*/
+#content #productlist img{
+	width: 100%;
+}
+#book_list{
+
+}
+.book{
+	float: left;
+	padding: 10px 100px;
+}
+.bookintroduce{
+	text-align: center;
+}
+.book img#book8{
+	width: 150px;
+	height: 197px;
+}
+#footerimg{
+	float: left;
+	margin-left: 20px;
+
+}
+footer {
+	clear:both;
+	background: #EFEEDC;
+	height: 60px;/*footer高度与图片高度一致*/
+	padding: 10px 0px;
+}
+.clear{
+	clear: both;
+
+}
+#footerimg{
+	float: left;
+	margin-left:50px;
+}
+#footertext{
+	float: left;
+	line-height: 30px;
+	margin-left: 50px;
+}

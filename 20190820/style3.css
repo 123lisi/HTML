@@ -1,0 +1,66 @@
+/*header部分*/
+#header_left{
+	float: left;
+}
+#header_right{
+	float: right;
+	margin-top: 10px;
+	margin-right: 50px;
+}
+#muen{
+	clear: both;
+	background: #1C3F09;
+	text-align: center;
+}
+#muen a {
+	color: #ffffff;
+	text-decoration:none;
+	margin:0 8px;
+}
+#muen a.last {
+	color: #ffff00;
+}
+#search{
+	background-color: #B6B684;
+	text-align: right;
+	padding-right: 30px;
+}
+#content_right{
+	float: right;
+	padding-right:20px;
+}
+h1{
+	clear: both;
+}
+#content #contentimg img{
+	width: 100%
+}
+.book {
+	float:left;
+	padding:10px 100px;
+}
+.book .bookimg{
+	width: 130px;
+	height: 200px;
+}
+#productlist .booktext{
+	text-align: center;
+}
+.clear{
+	clear: both;
+}
+footer{
+	clear: both;
+	background-color: #EFEEDC;
+	height: 60px;
+	padding: 10px 10px;
+}
+#footer_left{
+	float: left;
+	padding-left: 50px;
+}
+footer #footer_right {
+	float: left;
+	line-height: 30px;
+	padding-left: 300px;
+}

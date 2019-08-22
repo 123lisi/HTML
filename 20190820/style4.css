@@ -1,0 +1,32 @@
+/*header:;*/
+#header_left{
+	float: left;
+}
+#header_right{
+	float: right;
+	margin-top: 20px;
+	margin-right: 60px;
+}
+#menu{
+	clear: both;
+	background-color: #1C3F09;
+	text-align: center;
+
+}
+#menu a{
+	color: #fff;
+	text-decoration: none;
+	margin:0 8px;
+}
+#menu a.last{
+	color: yellow;
+}
+#search{
+	background-color: #B6B684;
+	text-align: right;
+	padding-right: 20px;
+}
+#content_right{
+	text-align: right;
+	margin-right: 15px;
+}
