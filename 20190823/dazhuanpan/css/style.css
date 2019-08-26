@@ -1,0 +1,13 @@
+#pan{
+	width: 500px;
+	height: 500px;
+	background:url("../img/plate.png");
+	position: absolute;
+
+}
+#hand{
+	width: 500px;
+	height: 500px;
+	background:url("../img/hand.png");
+	position: absolute;
+}

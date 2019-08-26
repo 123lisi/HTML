@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>贪吃蛇</title>
+<!-- 适应手机上阅读 -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="format-detection" content="telephone=no" />
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<script src="jquery-1.12.4.js"></script>
+<script src="jquery.touchSwipe.min.js"></script>
+<script src="index.js"></script>
+</head>
+
+<body>
+<div id="mainBox">
+  <div class="food"></div>
+  <div class="snakehead"></div>
+  <!--
+  后面通过事件动态添加蛇尾
+  <div class="snaketail" style="left: 30px; top:45px"></div>
+  <div class="snaketail" style="left: 30px; top:30px"></div>
+  <div class="snaketail" style="left: 45px; top:30px"></div>
+  -->
+</div>
+<button id="left" type="button">左</button>
+<button id="up" type="button">上</button>
+<button id="down" type="button">下</button>
+<button id="right" type="button">右</button>
+</body>
+</html>

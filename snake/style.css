@@ -1,0 +1,31 @@
+#mainBox {
+	position:relative;
+	width: 300px;
+	height: 300px;
+	border: 1px solid #777;
+	background-color:#ccc;
+}
+.food {
+	position:absolute;
+	width: 15px;
+	height: 15px;
+	background-color:#090;
+	left: 60px;
+	top: 120px;
+}
+.snakehead {
+	position:absolute;
+	width: 15px;
+	height: 15px;
+	background-color:#009;
+	left: 0px;
+	top: 0px;
+}
+.snaketail {
+	position:absolute;
+	width: 15px;
+	height: 15px;
+	background-color:#777;
+	left: 30px;
+	top: 45px;
+}

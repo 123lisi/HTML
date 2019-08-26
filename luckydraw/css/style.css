@@ -1,0 +1,19 @@
+#lottery {
+	width: 500px;
+	height: 500px;
+}
+
+#hand {
+	position:absolute;
+	width: 500px;
+	height: 500px;
+	background:url("../img/hand.png");
+}
+
+#plate {
+	position:absolute;
+	width: 500px;
+	height: 500px;
+	background:url("../img/plate.png");
+	transform: rotate(0deg);
+}
